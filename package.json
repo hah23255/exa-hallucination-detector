@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/anthropic": "^0.0.56",
-    "@ai-sdk/openai": "^0.0.72",
+    "@ai-sdk/anthropic": "^4.0.94",
+    "@ai-sdk/openai": "^4.0.106",
     "@vercel/analytics": "^1.4.0",
     "ai": "^5.0.43",
     "class-variance-authority": "^0.7.0",
